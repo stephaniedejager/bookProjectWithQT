@@ -16,7 +16,20 @@ Result
 
 GUI:
 
-![image](https://user-images.githubusercontent.com/68548733/166983356-307ac58c-6ee0-48de-b7d7-dd44ed3b6d1f.png)
+![image](https://user-images.githubusercontent.com/68548733/166995445-b13ead5a-9571-4d28-b6b2-16d06ac7538c.png)
 
-![image](https://user-images.githubusercontent.com/68548733/166983838-c29a7588-4888-421a-ad0f-064d75619881.png)
+![image](https://user-images.githubusercontent.com/68548733/166995763-c5e57625-5827-47a0-9492-cee950b0fe30.png)
+
+Press save
+
+![image](https://user-images.githubusercontent.com/68548733/166995959-b8b5b681-e057-48dc-8bd0-0605f61564c0.png)
+
+Press OK
+
+![image](https://user-images.githubusercontent.com/68548733/166996132-90b0de40-9dee-423a-af88-40f52dccc50b.png)
+
+
+File
+
+![image](https://user-images.githubusercontent.com/68548733/166996433-8857c04f-d3b1-4d0e-897d-81b5a7103dda.png)
 
